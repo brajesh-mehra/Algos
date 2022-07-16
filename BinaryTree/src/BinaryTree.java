@@ -29,4 +29,22 @@ public class BinaryTree {
         preOrder(root.left);
         preOrder(root.right);
     }
+
+    // In Order
+    public void inOrder(TreeNode root){
+        if(root == null) return;
+
+        preOrder(root.left);
+        System.out.println(root.data + " ");
+        preOrder(root.right);
+    }
+
+    // Post Prder
+    public void postOrder(TreeNode root){
+        if(root == null) return;
+
+        preOrder(root.left);
+        preOrder(root.right);
+        System.out.println(root.data + " ");
+    }
 }
