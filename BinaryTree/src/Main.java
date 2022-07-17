@@ -13,5 +13,8 @@ public class Main {
 
         System.out.println("Post order");
         bt.postOrder(bt.createBinaryTree());
+
+        System.out.println("Level order traversal");
+        bt.levelOrderTraversal(bt.createBinaryTree());
     }
 }
