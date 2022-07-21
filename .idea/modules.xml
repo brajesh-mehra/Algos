@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algos.iml" filepath="$PROJECT_DIR$/.idea/Algos.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxPathmXn/MaxPathmXn.iml" filepath="$PROJECT_DIR$/MaxPathmXn/MaxPathmXn.iml" />
     </modules>
   </component>
 </project>
