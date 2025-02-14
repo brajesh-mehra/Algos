@@ -4,7 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algos.iml" filepath="$PROJECT_DIR$/.idea/Algos.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeInsertion/BinaryTreeInsertion.iml" filepath="$PROJECT_DIR$/BinaryTreeInsertion/BinaryTreeInsertion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesingPattern/BuilderDesingPattern.iml" filepath="$PROJECT_DIR$/BuilderDesingPattern/BuilderDesingPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompareTwoArrays/CompareTwoArrays.iml" filepath="$PROJECT_DIR$/CompareTwoArrays/CompareTwoArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DFS/DFS.iml" filepath="$PROJECT_DIR$/DFS/DFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindStringPatternMatchCount/FindStringPatternMatchCount.iml" filepath="$PROJECT_DIR$/FindStringPatternMatchCount/FindStringPatternMatchCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxPathmXn/MaxPathmXn.iml" filepath="$PROJECT_DIR$/MaxPathmXn/MaxPathmXn.iml" />
     </modules>
   </component>

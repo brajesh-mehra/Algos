@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DFS" />
         <module name="MaxPathmXn" />
+        <module name="BuilderDesingPattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="BuilderDesingPattern" target="18" />
       <module name="DFS" target="1.5" />
       <module name="MaxPathmXn" target="11" />
     </bytecodeTargetLevel>

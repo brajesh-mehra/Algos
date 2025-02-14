@@ -5,10 +5,11 @@
       <list>
         <option value="$PROJECT_DIR$/DFS/pom.xml" />
         <option value="$PROJECT_DIR$/MaxPathmXn/pom.xml" />
+        <option value="$PROJECT_DIR$/BuilderDesingPattern/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="18" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">
